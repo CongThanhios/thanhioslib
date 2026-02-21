@@ -1,0 +1,13 @@
+Script Congthanhios.github.io
+ Trạng thái:  🟢
+Script main : chưa hoàn thành 
+Script fram chest : loadstring(game:HttpGet("https://raw.githubusercontent.com/CongThanhios/NCTHUBX/refs/heads/main/NCTChesthop.txt"))()
+Script autokaitun : chưa hoàn thành 
+Script find fruit :chưa hoàn thành 
+Script auto bouty :hưa hoàn thành 
+Script :
+Script :
+Script :
+Script :
+Script :
+Script :
