@@ -1,6 +1,6 @@
 local v1 = {}
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PlockScripts/Aimbot-skill-config/refs/heads/main/Config.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CongThanhios/thanhioslib/refs/heads/main/Config.lua'))()
 
 local vu2 = game:GetService('Players')
 local vu3 = vu2.LocalPlayer
